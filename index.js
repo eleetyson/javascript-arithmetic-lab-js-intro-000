@@ -1,3 +1,7 @@
+function add() {
+  return 3+2
+}
+
 function makeInt(string) {
   parseInt(string, 10)
   return string
